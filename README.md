@@ -1,16 +1,28 @@
-## Hi there 👋
+# David Santiago Sepulveda
 
-<!--
-**santt-i/santt-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student focused on backend development, API integrations, and cloud applications.
 
-Here are some ideas to get you started:
+## Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Backend: NestJS, Node.js, REST APIs
+* Frontend: React, React Native
+* Databases: PostgreSQL, MySQL, Prisma ORM
+* Languages: TypeScript, JavaScript, Python
+* Tools: Git, GitHub, Insomnia, VS Code
+* Concepts: JWT Authentication, RBAC, WebSockets, OOP
+
+## Current Interests
+
+* Backend Architecture
+* API Integrations
+* Cloud Applications
+* Salesforce Development
+* AI-assisted Development Workflows
+
+## Featured Project
+
+### Colombian Exporters Platform
+
+Full-stack mobile marketplace platform built with NestJS, React Native, PostgreSQL, WebSockets, JWT authentication, Stripe API, and Cloudinary API.
+
+Currently focused on improving backend engineering skills, learning enterprise cloud technologies, and building scalable applications.
